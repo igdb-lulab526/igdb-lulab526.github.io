@@ -1,5 +1,5 @@
 
-- name: "陆发隆 (Falong Lu)"
+- name: "陆发隆"
   photo: falonglu.jpg
   info: 研究员
   email: fllu@genetics.ac.cn
@@ -24,18 +24,18 @@
 
 - name: "乔连勇"
   photo: qiaolianyong.jpg
-  info: 实验室管理员
+  info: 博后
   email: hlzhang@genetics.ac.cn
   number_educ: 0
 
 - name: "樊春燕"
   photo: fanchunyan.jpg
-  info: 实验室管理员
+  info: 博后
   email: hlzhang@genetics.ac.cn
   number_educ: 0
 
 - name: "刘玉胜"
   photo: liuyusheng.jpg
-  info: 实验室管理员
+  info: 
   email: hlzhang@genetics.ac.cn
   number_educ: 0
