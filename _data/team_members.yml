@@ -1,13 +1,14 @@
 
 - name: "陆发隆 (Falong Lu)"
   photo: falonglu.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+  info: Principle Investigator
+  email: fllu@genetics.ac.cn
+  numer_educ: 5
+  education1: 2000-2004, 北京大学生命科学学院, 获学士学位
+  education2: 2004-2011, 中国可许愿遗传与发育生物学研究所，获博士学位
+  education3: 2012.01-2012.08 北卡罗来纳大学教堂山分校/霍华德休斯医学研究所, 博士后
+  education4: 2012.08-2017.04 波士顿儿童医院/哈佛医学院/霍华德休斯医学研究所, 博士后
+  education4: 2017.04-今 中国科学院遗传与发育生物学研究所, 研究员
 
 
 - name: "This could be you !"
