@@ -9,11 +9,11 @@
   news2:
 
 - title: "Establishing chromatin regulatory landscape during mouse preimplantation development"
-  image: H3K27me3.jpg
+  image: H3K27me3.png
   description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
   authors: Azusa Inoue#, Lan Jiang#, Falong Lu#, Tsukasa Suzuki, and Yi Zhang. (2017)
   link:
     url: https://www.nature.com/articles/nature23262
     display:  https://www.nature.com/articles/nature23262
-  highlight: 1
+  highlight: 0
   news2:
