@@ -23,6 +23,12 @@
   education2: 2014-2017, 四川大学, 获硕士学位
   education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
 
+- name: 刘媛
+  photo: liuyuan.jpg
+  info: 博士在读
+  email: liuyuan@genetics.ac.cn
+  number_educ: 0
+
 - name: 张吉祥
   photo: jixiangzhang.jpg
   info: 博士在读
@@ -33,24 +39,6 @@
   photo: liyamei.jpg
   info: 博士在读
   email: liym154@mail.ustc.edu.cn
-  number_educ: 0
-
-- name: 刘媛
-  photo: liuyuan.jpg
-  info: 博士在读
-  email: liuyuan@genetics.ac.cn
-  number_educ: 0
-
-- name: 王逵
-  photo: wangkui.jpg
-  info: 博士在读
-  email: wangkui@genetics.ac.cn
-  number_educ: 0
-
-- name: 傅良政
-  photo: fuliangzheng.jpg
-  info: 博士在读
-  email: rongrongsun@genetics.ac.cn
   number_educ: 0
 
 - name: 谢亚莉
@@ -65,6 +53,12 @@
   email: liyuejiao22@126.com
   number_educ: 0
 
+- name: 刘莹
+  photo: liuying.jpg
+  info: 硕士在读
+  email: ly621687@163.com
+  number_educ: 0
+
 - name: 朱运济
   photo: zhuyunji.jpg
   info: 博士在读
@@ -77,10 +71,16 @@
   email: trishcl-ph7.0@foxmail.com
   number_educ: 0
 
-- name: 刘莹
-  photo: liuying.jpg
-  info: 硕士在读
-  email: ly621687@163.com
+- name: 王逵
+  photo: wangkui.jpg
+  info: 博士在读
+  email: wangkui@genetics.ac.cn
+  number_educ: 0
+
+- name: 傅良政
+  photo: fuliangzheng.jpg
+  info: 博士在读
+  email: casupa@163.com
   number_educ: 0
 
 - name: 刘鸿祥
