@@ -9,11 +9,31 @@
   news2:
 
 - title: "Establishing chromatin regulatory landscape during mouse preimplantation development"
-  image: dhs.png
+  image: dhs.jpg
   description: 
   authors: Falong Lu#, Yuting Liu#, Azusa Inoue#, Tsukasa Suzuki, Keji Zhao, and Yi Zhang. (2016).
   link:
     url: https://doi.org/10.1016/j.cell.2016.05.050
     display: https://doi.org/10.1016/j.cell.2016.05.050
   highlight: 1
+  news2:
+
+- title: "REF6 recognizes specific DNA sequence to regulate H3K27me3 demethylation and organ boundary formation"
+  image: dhs.png
+  description: 
+  authors: Xia Cui#, Falong Lu#, Qi Qiu#, Bing Zhou#, Lianfeng Gu, Shuaibin Zhang, Yanyuan Kang, Xiekui Cui, Xuan Ma, Qingqing Yao, Jinbiao Ma, Xiaoyu Zhang, and Xiaofeng Cao. (2016).
+  link:
+    url: https://doi.org/10.1038/ng.3556
+    display: https://doi.org/10.1038/ng.3556
+  highlight: 1
+  news2:
+
+- title: " Loss of HDAC-Mediated Repression and Gain of NF-kappaB Activation Underlie Cytokine Induction in ARID1A- and PIK3CA-Mutation-Driven Ovarian Cancer"
+  image: dhs.png
+  description: 
+  authors: Minchul Kim, Falong Lu and Yi Zhang. (2016)
+  link:
+    url: https://doi.org/10.1016/j.celrep.2016.09.003
+    display: https://doi.org/10.1016/j.celrep.2016.09.003
+  highlight: 0
   news2:
