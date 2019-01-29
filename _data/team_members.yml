@@ -12,19 +12,19 @@
 - name: "张红莲"
   photo: zhanghonglian.jpg
   info: 副研究员
-  email: hlzhang@genetics.ac.cn
+  email: zhang.honglian@genetics.ac.cn
   number_educ: 0
 
 - name: "张玉"
   photo: zhangyu.jpg
   info: 实验室管理员
-  email: hlzhang@genetics.ac.cn
+  email: zhangyu@genetics.ac.cn
   number_educ: 0
 
 - name: "乔连勇"
   photo: qiaolianyong.jpg
   info: 博后
-  email: hlzhang@genetics.ac.cn
+  email: ly.qiao@genetics.ac.cn
   number_educ: 0
 
 - name: "樊春燕"
