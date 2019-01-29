@@ -1,4 +1,3 @@
-
 - name: "陆发隆"
   photo: falonglu.jpg
   info: 研究员
@@ -32,7 +31,8 @@
   photo: fanchunyan.jpg
   info: 博后
   email: fanchunyan@genetics.ac.cn
-  number_educ: 0
+  number_educ: 1
+  education5: 2017.04-今 中国科学院遗传与发育生物学研究所, 博后
 
 - name: "刘玉胜"
   photo: liuyusheng.jpg
