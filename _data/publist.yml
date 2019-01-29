@@ -1,19 +1,19 @@
 - title: "Maternal H3K27me3 controls DNA methylation-independent imprinting"
   image: H3K27me3.jpg
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
+  description:  we profile parental allele-specific DNase I hypersensitive sites in mouse zygotes and morula embryos, and investigate the epigenetic mechanisms underlying these allelic sites.
   authors: Azusa Inoue#, Lan Jiang#, Falong Lu#, Tsukasa Suzuki, and Yi Zhang. (2017)
   link:
-    url: https://www.nature.com/articles/nature23262
-    display:  https://www.nature.com/articles/nature23262
+    url: https://doi.org/10.1038/nature23262
+    display: https://doi.org/10.1038/nature23262
   highlight: 1
   news2:
 
 - title: "Establishing chromatin regulatory landscape during mouse preimplantation development"
-  image: H3K27me3.png
-  description: We succeeded in measuring the superfluid density with atomic resolution on an unconventional superconductor! In contrast to expectations for conventional superconductors, we find that the superfluid densisty is strongly inhomogeneous in FeTe0.55Se0.45.
-  authors: Azusa Inoue#, Lan Jiang#, Falong Lu#, Tsukasa Suzuki, and Yi Zhang. (2017)
+  image: dhs.png
+  description: 
+  authors: Falong Lu#, Yuting Liu#, Azusa Inoue#, Tsukasa Suzuki, Keji Zhao, and Yi Zhang. (2016).
   link:
-    url: https://www.nature.com/articles/nature23262
-    display:  https://www.nature.com/articles/nature23262
+    url: https://doi.org/10.1016/j.cell.2016.05.050
+    display: https://doi.org/10.1016/j.cell.2016.05.050
   highlight: 0
   news2:
