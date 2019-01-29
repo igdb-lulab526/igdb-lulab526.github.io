@@ -8,11 +8,119 @@
 #  education3:
 #  education4:
 
-- name: 聂虎 (Hu Nie)
-  photo: rock.jpg
-  info: Ph.D candidate
+- name: 聂虎
+  photo: niehu.jpg
+  info: 博士在读
   email: niehu@genetics.ac.cn
   number_educ: 3
-  education1: B.S. 2010.09 - 2014.09, Biology, SiChuan University
-  education2: M.A. 2014.09 - 2017.09, Biochemistry and Molecular Biology, SiChuan University 
-  education3: Ph.D 2017.09 - now, candidate, Development Biology, Institute of Genetics and Developmental Biology, Chinese Academic of Science
+  education1: 2010-2014, 四川大学, 获学士学位
+  education2: 2014-2017, 四川大学, 获硕士学位
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 孙蓉蓉
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 孙蓉蓉
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 孙蓉蓉
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 张吉祥
+  photo: jixiangzhang.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 李雅梅
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 刘媛
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 王逵
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 傅良政
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 谢雅莉
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 李月娇
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 杜毅
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 杜毅
+  photo: sunrongrong.jpg
+  info: 博士在读
+  email: rongrongsun@genetics.ac.cn
+  number_educ: 3
+  education1: 
+  education2: 
+  education3: 2017-今天, 中科院遗传与发育生物学研究所, 博士在读
