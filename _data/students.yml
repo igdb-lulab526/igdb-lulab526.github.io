@@ -11,6 +11,7 @@
 - name: 聂虎 (Hu Nie)
   photo: rock.jpg
   info: Ph.D candidate
-  email: -@niehu@genetics.ac.cn
-  number_educ: 0
-  education1:
+  email: niehu@genetics.ac.cn
+  number_educ: 2
+  education1: B.S. SiChuan University
+  education2: Master SiChuan University
