@@ -10,13 +10,32 @@
   education4: 2012.08-2017.04 波士顿儿童医院/哈佛医学院/霍华德休斯医学研究所, 博士后
   education5: 2017.04-今 中国科学院遗传与发育生物学研究所, 研究员
 
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+- name: "张红莲"
+  photo: zhanghonglian.jpg
+  info: 副研究员
+  email: hlzhang@genetics.ac.cn
   number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+
+- name: "张玉"
+  photo: zhangyu.jpg
+  info: 实验室管理员
+  email: hlzhang@genetics.ac.cn
+  number_educ: 0
+
+- name: "乔连勇"
+  photo: qiaolianyong.jpg
+  info: 实验室管理员
+  email: hlzhang@genetics.ac.cn
+  number_educ: 0
+
+- name: "樊春燕"
+  photo: fanchunyan.jpg
+  info: 实验室管理员
+  email: hlzhang@genetics.ac.cn
+  number_educ: 0
+
+- name: "刘玉胜"
+  photo: liuyusheng.jpg
+  info: 实验室管理员
+  email: hlzhang@genetics.ac.cn
+  number_educ: 0
