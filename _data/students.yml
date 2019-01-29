@@ -70,7 +70,7 @@
   info: 博士在读
   email: rongrongsun@genetics.ac.cn
   number_educ: 0
-  
+
 - name: 李月娇
   photo: sunrongrong.jpg
   info: 博士在读
@@ -80,11 +80,6 @@
 - name: 杜毅
   photo: duyi.jpg
   info: 博士在读
-  email: rongrongsun@genetics.ac.cn
+  email: duyi@genetics.ac.cn
   number_educ: 0
 
-- name: 杜毅
-  photo: sunrongrong.jpg
-  info: 博士在读
-  email: rongrongsun@genetics.ac.cn
-  number_educ: 0
