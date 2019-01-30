@@ -89,7 +89,6 @@ permalink: /team/
   <h4>{{ member.name }}</h4>
   {{ member.info }}<br/>
   email: <{{ member.email }}><br/>
-  interest: <{{ member.interest }}> </br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <ul style="overflow: hidden">
 
