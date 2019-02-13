@@ -14,7 +14,10 @@
   info: 博士在读
   interest: Zygotic genome activation
   email: rongrongsun@genetics.ac.cn
-  number_educ: 0
+  number_educ: 3
+  education1:
+  education2:
+  education3:
 
 - name: 聂虎
   photo: niehu.jpg
@@ -29,37 +32,51 @@
   photo: liuyuan.jpg
   info: 博士在读
   email: liuyuan@genetics.ac.cn
-  number_educ: 0
+  number_educ: 2
+  education1: 2012-2016, 西北农林科技大学, 获学士学位
+  education2: 2016-今天, 中科院遗传与发育生物学研究所, 博士在读
+
 
 - name: 张吉祥
   photo: jixiangzhang.jpg
   info: 博士在读
   email: jxzhang@genetics.ac.cn
-  number_educ: 0
+  number_educ: 3
+  education1:
+  education2:
+  education3:
+
 
 - name: 李雅梅
   photo: liyamei.jpg
   info: 博士在读
   email: liym085@genetics.ac.cn
-  number_educ: 0
-
-- name: 谢亚莉
-  photo: xieyali.jpg
-  info: 博士在读
-  email: xyali1996@foxmail.com
-  number_educ: 0
-
-- name: 李月娇
-  photo: liyuejiao.jpg
-  info: 博士在读
-  email: liyuejiao22@126.com
-  number_educ: 0
+  number_educ: 3
+  education1: 2011-2015, 安庆师范大学, 获学士学位
+  education2: 2015-2017, 中国科学技术大学, 获硕士学位
+  education3: 2018-今天, 中科院遗传与发育生物学研究所, 博士在读
 
 - name: 朱运济
   photo: zhuyunji.jpg
   info: 博士在读
   email: zhuyunji@genetics.ac.cn
   number_educ: 0
+
+- name: 谢亚莉
+  photo: xieyali.jpg
+  info: 博士在读
+  email: xyali1996@foxmail.com
+  number_educ: 2
+  education1: 2014-2018, 天津医科大学, 获学士学位
+  education2: 2018-今天, 中科院遗传与发育生物学研究所, 博士在读
+
+- name: 李月娇
+  photo: liyuejiao.jpg
+  info: 博士在读
+  email: liyuejiao22@126.com
+  number_educ: 2
+  education1: 2014-2018, 河北大学, 获学士学位
+  education2: 2018-今天, 中科院遗传与发育生物学研究所, 博士在读
 
 - name: 杜毅
   photo: duyi.jpg
